@@ -1,0 +1,241 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Blox Hub - Universal", "DarkTheme")
+
+
+
+-- Credit and what ever
+local Game = Window:NewTab("Scripts")
+local GameSection = Game:NewSection("Enjoy skids")
+local GameSection = Game:NewSection("Made by Quinn#1788")
+local GameSection = Game:NewSection("Adding more games soon")
+local GameSection = Game:NewSection("Version 1.1")
+local GameSection = Game:NewSection("Added more scripts and removed god mode cause it's patched")
+
+-- Scripts
+
+GameSection:NewButton("Da Hood", "Zinc Hub best Da Hood GUI?!??!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Zinzs/luascripting/main/canyoutellitsadahoodscriptornot.lua"))()
+end)
+
+GameSection:NewButton("Da Hood 2", "Zinc Hub best Da Hood GUI?!??!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fortniteisveryepic/crimskid/main/da%20hood"))()
+end)
+
+GameSection:NewButton("Da Hood 3", ".", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Impulseonyoutube/scripts/main/dahood"))()
+end)
+
+GameSection:NewButton("Da Hood 4", ".", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Scrvpter/Pluto/Lua/Loader.Lua', true))();
+end)
+
+GameSection:NewButton("Da Hood 5", ".", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/Whitelist.txt"))()
+end)
+
+GameSection:NewButton("Da Hood 6", ".", function()
+    loadstring(game:HttpGetAsync("https://polar7.wtf/Arctic/ArcticHub/Loader.txt"))()
+end)
+
+GameSection:NewButton("Da Hood 7", ".", function()
+    local zeus = "https://raw.githubusercontent.com/ZenXTheMen/Cuhhz/main/Zeus.cc"loadstring(game:HttpGet(zeus))()
+end)
+
+GameSection:NewButton("Da Hood 8", ".", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/spacexrandom/Lua/main/DaHood"))()
+end)
+
+GameSection:NewButton("Da Hood 9", ".", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic", true))()
+end)
+
+GameSection:NewButton("Da Hood 10", ".", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/SpaceYes/Lua/Main/DaHood.Lua'))()
+end)
+
+GameSection:NewButton("Counter Blox 1", "Undetected cbro script", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/4JdQHKju"))()
+end)
+
+GameSection:NewButton("Counter Blox 2", ".", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/Qa0wKCYG"))()
+end)
+
+GameSection:NewButton("Jailbird", "Bad Jailbird script imo", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AtomGotIce/Scripts/main/JailbirdNewLoader"))()
+end)
+
+GameSection:NewButton("Blox Fruits", "Best Blox Fruits script so far", function()
+    loadstring(game:HttpGet'https://raw.githubusercontent.com/HALOxHUB/ScriptLoader/main/Loader.lua')()
+end)
+
+GameSection:NewButton("Blox Fruits 2", ".", function()
+    loadstring(game:HttpGet('https://rawscripts.net/raw/UPDATE-16-Blox-Fruits-Nub-V1-Hub-4583'))()
+end)
+
+GameSection:NewButton("Blox Fruits 3", ".", function()
+    loadstring(game:HttpGet("https://zKuzy.link/ZeeHub.lua"))()
+end)
+
+GameSection:NewButton("War Tycoon", "Blast your enemies into bits", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nici002018/GNHub/master/GNHub.lua", true))()
+end)
+
+GameSection:NewButton("Phantom Forces", "Wow you're using aimbot now... are you that bad bro?", function()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/rblxscriptsnet/scripts/main/phantomforces1'),true))()
+end)
+
+GameSection:NewButton("Infinite Yield", "Admin Commands", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+GameSection:NewButton("AimHot V8", "Universal Aimbot/ESP (Doesn't work on Phantom Forces and Bad Business btw", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Herrtt/AimHot-v8/master/Main.lua", true))()
+end)
+
+GameSection:NewButton("KAT", "u stinky kat player", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/lel69/KAT/main/GUI"))()
+end)
+
+GameSection:NewButton("KAT 2", "u stinky kat player", function()
+    loadstring(game:HttpGet( " https://raw.githubusercontent.com/elonof/elonofscripts/main/KAT/SimpleKatAim",true ))()
+end)
+
+GameSection:NewButton("OwlHub", "Universal", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+end)
+
+GameSection:NewButton("Punch Wall Simulator", "Very op", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/13B8B/NEXUS/main/loadstring'))()
+end)
+
+GameSection:NewButton("The Wild West", "...", function()
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/KeoneGithub/KeoneGithub/main/WildWestLean"),true))()
+end)
+
+GameSection:NewButton("Murderers vs. Sheriffs", "The best script for Murderers vs Sheriffs", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Bebo-Mods/BeboScripts/main/MurderersVsSheriffs.lua"))()
+end)
+
+GameSection:NewButton("Weaponry", "Op Weaponry silent aim", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/yeerma/fff/main/weaponry'))()
+end)
+
+GameSection:NewButton("Adopt Me", "why bother exploiting on adopt me anyway", function()
+    loadstring(game:HttpGet('https://gitfront.io/r/ReQiuYTPL/wFUydaK74uGx/hub/raw/ReQiuYTPLHub.lua'))()
+end)
+
+GameSection:NewButton("Shinobi Storm", "goku", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Alrbuddy/Shinobi/main/CharacterSelecter'))()
+end)
+
+GameSection:NewButton("Jailbreak", "Jailmonkey nerds", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KuriWasTaken/MonkeyScripts/main/JailMonkey.lua"))()
+end)
+
+GameSection:NewButton("Block Mine", "Op Block Mine script", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0blockmine", true))()
+end)
+
+GameSection:NewButton("Prison Race Clicker", "Op Prison Race Clicker script", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0prison", true))()
+end)
+
+GameSection:NewButton("Be A Parkour Ninja", "What is a roblox", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/JustAP1ayer/PlayerHubOther/main/PlayerHubLoader.lua",true))()
+end)
+
+GameSection:NewButton("Ninja Tycoon", "op ninja tycoon script", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AliCode14/scripts/main/ninjatycoon.lua"))()
+end)
+
+GameSection:NewButton("Slap Battles", "what", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/cheesynob39/R2O/main/LOADSTRING.lua"))()
+end)
+
+GameSection:NewButton("Doors", "Wait for the script to load", function()
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/mstudio45/poopdoors_edited/main/poopdoors_edited.lua"),true))()
+end)
+
+GameSection:NewButton("Doors 2", ".", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Doors"))()
+end)
+
+GameSection:NewButton("Doors 3", ".", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"))()
+end)
+
+GameSection:NewButton("Doors 4", ".", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OminousVibes-Exploit/Scripts/main/doors/main.lua"))()
+end)
+
+GameSection:NewButton("Doors 5", ".", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ChronoAccelerator/Public-Scripts/main/Morphing/MorphScript.lua"))();
+end)
+
+GameSection:NewButton("Micheal's Zombies", "Op Micheal's Zombies script", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Bebo-Mods/BeboScripts/main/MichaelZombies.lua"))()
+end)
+
+
+-- Local Player
+
+
+local Player = Window:NewTab("Player")
+local PlayerSection = Player:NewSection("Player")
+
+PlayerSection:NewSlider("WalkSpeed", "Speed of Walking", 350, 16, function(s) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)
+
+PlayerSection:NewSlider("JumpPower", "Power Of Jump", 500, 25, function(s) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = s
+end)
+
+PlayerSection:NewButton("Reset WalkSpeed", "Reset Your Speed", function()
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
+end)
+
+PlayerSection:NewButton("Reset Jump Power", "Reset Your Jump Power", function()
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50
+end)
+
+PlayerSection:NewToggle("Infinite Jump", "Basically Fly", function(state)
+    if state then
+        loadstring(game:HttpGet('https://pastebin.com/raw/N3EqajFs'))()
+    else
+        loadstring(game:HttpGet('https://pastebin.com/raw/ZHMtrKfG'))()
+    end
+end)
+
+
+
+
+
+
+
+
+-- Visuals
+
+
+local Visuals = Window:NewTab("Visuals")
+local VisualsSection = Visuals:NewSection("Visuals")
+
+VisualsSection:NewButton("FullBright", "Maximum Brightness", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/cWtYaN28'))()
+end)
+
+VisualsSection:NewButton("ESP", "Shows Players Through Walls", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/A3h0RtT2"))()
+end)
+
+
+-- Hud
+
+local Settings = Window:NewTab("Hud")
+    local SettingsSection = Settings:NewSection("Hud")
+
+
+SettingsSection:NewKeybind("Hud", "Hud toggle key", Enum.KeyCode.RightShift, function()
+	Library:ToggleUI()
+end)
